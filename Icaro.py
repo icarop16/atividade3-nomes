@@ -1,0 +1,10 @@
+import time 
+nome1 = ("Jack")
+nome2 = ("Taylor")
+nome3 = ("Conan")
+time.sleep (5.0)
+print (nome1)
+time.sleep (5.0)
+print (nome2) 
+time.sleep (5.0)
+print (nome3)
